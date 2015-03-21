@@ -1,0 +1,2 @@
+board=m8974
+require version-bootloader=3.18.0.0000|3.19.0.0000
